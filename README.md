@@ -1,1 +1,2 @@
 # Faculdade
+Este projeto foi o meu primeiro feito em python, durante o segundo período na faculdade de engenharia de softwere. Olhando pra trás vejo como foi simples, porém um excelente começo, espero que apreciem !!!
